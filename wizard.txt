@@ -1,0 +1,74 @@
+
+name="KODI 15.x Setup"
+url="http://bit.ly/1Eebodt"
+img="http://koditv.byethost7.com/images/kodi-15-Isengard-2.png"
+fanart="http://koditv.byethost7.com/images/home-cinema-01.jpg"
+description="Husham KODI 15 Fully Loaded Set-up"
+
+
+name="KODI 14.x Setup"
+url="http://bit.ly/1Ndaxim"
+img="http://koditv.byethost7.com/images/kodi-14-felix-2.png"
+fanart="http://koditv.byethost7.com/images/home-cinema-01.jpg"
+description="Husham KODI 15 Fully Loaded Set-up"
+
+
+name="XBMC Setup"
+url="http://bit.ly/husham080"
+img="http://koditv.byethost7.com/images/xbmc-2.png"
+fanart="http://koditv.byethost7.com/images/home-cinema-01.jpg"
+description="Husham KODI 15 Fully Loaded Set-up"
+
+
+name="Linke 3 - 0.8.0 Husham.com KODI 15 Fully Loaded Setup"
+url="http://bit.ly/1OteVtR"
+img="http://kodi.tv/wp-content/uploads/kodi-splash-Isengard-alpha-600x336.png"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+description="Husham KODI 15 Fully Loaded Set-up"
+
+
+
+name="Link 1-0.7.3 Husham.com Fully Loaded Setup"
+url="http://bit.ly/1IvCz8O"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
+description="Husham Fully Loaded Set-up"
+
+
+name="Link 2-0.7.3 Husham.com Fully Loaded Setup"
+url="http://bit.ly/hushamwizard073"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
+description="Husham Fully Loaded Set-up"
+
+name="Husham.com Repos only"
+url="http://bit.ly/husahmreposonly01"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
+description="Husham Fully Loaded Set-up"
+
+name="0.7.2 Husham.com Fully Loaded Setup"
+url="http://bit.ly/husham072"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
+description="Husham Fully Loaded Set-up"
+
+name="0.7.1 Husham.com Fully Loaded Setup"
+url="http://bit.ly/husham71"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
+description="Husham Fully Loaded Set-up"
+
+
+name="0.7 Husham.com Fully Loaded Setup"
+url="http://bit.ly/husham07"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
+description="Husham Fully Loaded Set-up"
+
+
+name="0.6 OLD Husham.com Fully Loaded Setup"
+url="http://bit.ly/husham06"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
+description="Husham Fully Loaded Set-up"
