@@ -1,20 +1,20 @@
 
 name="KODI 15.x Setup"
-url="http://bit.ly/1KXZOYM"
+url="http://bit.ly/1gxrnxR"
 img="http://koditv.byethost7.com/images/kodi-15-Isengard-2.png"
 fanart="http://koditv.byethost7.com/images/home-cinema-01.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
 
 
 name="KODI 14.x Setup"
-url="http://bit.ly/1KXZOYM"
+url="http://bit.ly/1gxrnxR"
 img="http://koditv.byethost7.com/images/kodi-14-felix-2.png"
 fanart="http://koditv.byethost7.com/images/home-cinema-01.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
 
 
 name="XBMC Setup"
-url="http://bit.ly/1KXZOYM"
+url="http://bit.ly/1gxrnxR"
 img="http://koditv.byethost7.com/images/xbmc-2.png"
 fanart="http://koditv.byethost7.com/images/home-cinema-01.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
