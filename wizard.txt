@@ -2,14 +2,14 @@
 name="KODI 15.x Setup"
 url="http://bit.ly/1gxrnxR"
 img="http://imageshack.com/a/img673/1302/qfdFHK.png"
-fanart="http://imageshack.com/a/img538/1390/2gD4Fa.jpg"
+fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
 
 
 name="KODI 14.x Setup"
 url="http://bit.ly/1gxrnxR"
 img="http://imageshack.com/a/img633/1059/Nlwibb.png"
-fanart="http://imageshack.com/a/img538/1390/2gD4Fa.jpg"
+fanart="http://imageshack.com/a/img661/820/pj0H0W.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
 
 
