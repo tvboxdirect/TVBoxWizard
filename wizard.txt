@@ -8,7 +8,7 @@ description="Husham KODI 15 Fully Loaded Set-up"
 
 name="KODI 14.x Setup"
 url="http://bit.ly/1gxrnxR"
-img="http://imageshack.com/a/img540/5935/wk4rRY.png"
+img="http://imageshack.com/a/img633/1059/Nlwibb.png"
 fanart="http://imageshack.com/a/img538/1390/2gD4Fa.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
 
