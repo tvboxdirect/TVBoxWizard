@@ -1,11 +1,3 @@
-name="WARNING"
-url="http://fusion.tvaddons.ag/xpert-advanced/tools/wizard.txt"
-img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/warning.jpg"
-fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
-description="Configure Kodi with all the Best Goodies Available in Just One Click!
-WARNING: This tool will overwrite your current settings!"
-type="splash"
-
 name="KODI 15.x Setup"
 url="http://bit.ly/1gxrnxR"
 img="http://imageshack.com/a/img673/1302/qfdFHK.png"
