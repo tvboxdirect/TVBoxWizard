@@ -1,5 +1,5 @@
 name="KODI 15.x Setup"
-url="http://bit.ly/1MF0VA1"
+url="http://bit.ly/1NoFWS1"
 img="http://imageshack.com/a/img673/1302/qfdFHK.png"
 fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
