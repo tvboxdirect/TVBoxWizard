@@ -1,19 +1,19 @@
-name="KODI English Full Setup"
-url="http://bit.ly/1NoFWS1"
+name="KODI 15.x Setup"
+url="http://bit.ly/1OxkZ61"
 img="http://imageshack.com/a/img673/1302/qfdFHK.png"
 fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
-description="Husham KODI 15 Fully Loaded Set-up"
+description="TVBox Direct KODI 15.xx Fully Loaded Set-up"
 
 
-name="KODI English Lite Setup"
+name="KODI 14.x Lite Setup"
 url="http://bit.ly/1ENxWHO"
 img="http://imageshack.com/a/img633/1059/Nlwibb.png"
 fanart="http://imageshack.com/a/img661/820/pj0H0W.jpg"
-description="Husham KODI 15 Fully Loaded Set-up"
+description="TVBox Direct KODI 14.xx Fully Loaded Set-up"
 
 
 name="XBMC Setup"
 url="http://bit.ly/1MF0VA1"
 img="http://imageshack.com/a/img540/5935/wk4rRY.png"
 fanart="http://imageshack.com/a/img633/4262/Eakgq1.jpg"
-description="Husham KODI 15 Fully Loaded Set-up"
+description="TVBox Direct XBMC Fully Loaded Set-up"
