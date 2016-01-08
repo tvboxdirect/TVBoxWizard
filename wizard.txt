@@ -1,19 +1,19 @@
 name="KODI 15.x Setup"
-url="ftp://public:W56w2K7p@download.justop.com/firmware/tvbdaddons0.1.2.lite.zip"
+url="ftp://public:W56w2K7p@download.justop.com/tvbdaddons0.1.2.lite.zip"
 img="http://imageshack.com/a/img673/1302/qfdFHK.png"
 fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
 description="TVBox Direct KODI 15.xx Fully Loaded Set-up"
 
 
 name="KODI 14.x Lite Setup"
-url="ftp://public:W56w2K7p@download.justop.com/firmware/tvbdaddons0.1.2.lite.zip"
+url="ftp://public:W56w2K7p@download.justop.com/tvbdaddons0.1.2.lite.zip"
 img="http://imageshack.com/a/img633/1059/Nlwibb.png"
 fanart="http://imageshack.com/a/img661/820/pj0H0W.jpg"
 description="TVBox Direct KODI 14.xx Fully Loaded Set-up"
 
 
 name="XBMC Setup"
-url="ftp://public:W56w2K7p@download.justop.com/firmware/tvbdaddons0.1.2.lite.zip"
+url="ftp://public:W56w2K7p@download.justop.com/tvbdaddons0.1.2.lite.zip"
 img="http://imageshack.com/a/img540/5935/wk4rRY.png"
 fanart="http://imageshack.com/a/img633/4262/Eakgq1.jpg"
 description="TVBox Direct XBMC Fully Loaded Set-up"
