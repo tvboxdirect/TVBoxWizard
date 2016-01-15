@@ -13,7 +13,7 @@ description="TVBox Direct KODI 14.xx Fully Loaded Set-up"
 
 
 name="XBMC Setup"
-url="http://bit.ly/1ENxWHO"
+url="http://bit.ly/1Ow1Qzp"
 img="http://imageshack.com/a/img540/5935/wk4rRY.png"
 fanart="http://imageshack.com/a/img633/4262/Eakgq1.jpg"
 description="TVBox Direct XBMC Fully Loaded Set-up"
