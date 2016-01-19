@@ -1,12 +1,19 @@
+name="KODI 16.x Setup"
+url="http://bit.ly/tvbox160119"
+img="http://imageshack.com/a/img908/9186/AQRxHr.png"
+fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
+description="TVBox Direct KODI 15.xx Fully Loaded Set-up"
+
+
 name="KODI 15.x Setup"
-url="http://bit.ly/1ENxWHO"
+url="http://bit.ly/tvbox160119"
 img="http://imageshack.com/a/img673/1302/qfdFHK.png"
 fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
 description="TVBox Direct KODI 15.xx Fully Loaded Set-up"
 
 
 name="KODI 14.x Lite Setup"
-url="http://bit.ly/1ENxWHO"
+url="http://bit.ly/tvbox160119"
 img="http://imageshack.com/a/img633/1059/Nlwibb.png"
 fanart="http://imageshack.com/a/img661/820/pj0H0W.jpg"
 description="TVBox Direct KODI 14.xx Fully Loaded Set-up"
