@@ -1,0 +1,5 @@
+name="KODI Full Setup"
+url="./storage/external_storage/sdcard1/kodipack.zip"
+img="./storage/external_storage/sdcard1/qfdFHK.png"
+fanart="./storage/external_storage/sdcard1/erT1tQ.jpg"
+description="KODI Configure"
