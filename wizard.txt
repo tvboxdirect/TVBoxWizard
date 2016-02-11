@@ -1,3 +1,10 @@
+name="KODI Custom Build V1.0"
+url="http://bit.ly/1ShQGod"
+img="http://imageshack.com/a/img921/5835/eAA5i1.png"
+fanart="http://imageshack.com/a/img924/6104/PzhVBD.jpg"
+description="TVBox Direct KODI Custom Build V1.0"
+
+
 name="KODI 16.x Setup"
 url="http://bit.ly/1SJ7F37"
 img="http://imageshack.com/a/img908/9186/AQRxHr.png"
