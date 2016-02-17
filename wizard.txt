@@ -1,4 +1,4 @@
-name="KODI Custom Build V1.0"
+name="TVBD Media Center Build V1.0"
 url="http://bit.ly/1OgFrVt"
 img="http://imageshack.com/a/img921/5835/eAA5i1.png"
 fanart="http://imageshack.com/a/img924/6104/PzhVBD.jpg"
