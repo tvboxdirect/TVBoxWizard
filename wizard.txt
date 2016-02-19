@@ -20,7 +20,7 @@ description="TVBox Direct KODI Set-up Lite Version | Only Install Essential Add-
 
 
 name="XBMC Setup"
-url="ActivateWindow(10001, plugin://plugin.video.xbmchubmaintenance/?fanart=C%3a%5cUsers%5cJustin%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.xbmchubmaintenance%5cfanart.jpg&amp;iconimage=http%3a%2f%2ftribeca.tvaddons.ag%2ftools%2fmaintenance%2fthumbs%2fgeneralmaintenance.jpg&amp;mode=7&amp;name=General%20Maintenance&amp;url=http%3a%2f%2ftribeca.tvaddons.ag%2ftools%2fmaintenance ,return,return)"
+url="http://bit.ly/20Y3qp4"
 img="http://imageshack.com/a/img540/5935/wk4rRY.png"
 fanart="http://imageshack.com/a/img633/4262/Eakgq1.jpg"
 description="TVBox Direct XBMC Fully Loaded Set-up"
