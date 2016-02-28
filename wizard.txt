@@ -1,10 +1,3 @@
-name="TVBD Media Center Build V1.0"
-url="http://bit.ly/1KraCm7"
-img="http://imageshack.com/a/img921/5835/eAA5i1.png"
-fanart="http://imageshack.com/a/img924/6104/PzhVBD.jpg"
-description="TVBox Direct KODI Custom Build V1.0"
-
-
 name="KODI Setup"
 url="http://bit.ly/20Y3qp4"
 img="http://imageshack.com/a/img673/1302/qfdFHK.png"
