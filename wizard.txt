@@ -13,7 +13,7 @@ description="TVBox Direct KODI Set-up Lite Version | Only Install Essential Add-
 
 
 name="XBMC Setup"
-url="http://bit.ly/20Y3qp4"
+url="http://bit.ly/1orBw2V"
 img="http://imageshack.com/a/img540/5935/wk4rRY.png"
 fanart="http://imageshack.com/a/img633/4262/Eakgq1.jpg"
 description="TVBox Direct XBMC Fully Loaded Set-up"
