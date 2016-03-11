@@ -1,3 +1,9 @@
+name="TVBD Custom KODI Built Setup"
+url="http://bit.ly/21lsu3Y"
+img="http://imagizer.imageshack.us/a/img921/5835/eAA5i1.png"
+fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
+description="TVBox Direct KODI Set-up Full Version"
+
 name="KODI Setup"
 url="http://bit.ly/20Y3qp4"
 img="http://imageshack.com/a/img673/1302/qfdFHK.png"
