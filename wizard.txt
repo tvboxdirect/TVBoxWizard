@@ -5,21 +5,21 @@ fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
 description="TVBox Direct KODI Set-up Full Version"
 
 name="KODI Setup"
-url="http://bit.ly/20Y3qp4"
+url="hhttp://bit.ly/1ViHq4q"
 img="http://imageshack.com/a/img673/1302/qfdFHK.png"
 fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
 description="TVBox Direct KODI Set-up Full Version"
 
 
 name="KODI Lite Setup"
-url="http://bit.ly/1orBw2V"
+url="http://bit.ly/1ViHq4q"
 img="http://imageshack.com/a/img633/1059/Nlwibb.png"
 fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
 description="TVBox Direct KODI Set-up Lite Version | Only Install Essential Add-ons"
 
 
 name="XBMC Setup"
-url="http://bit.ly/1orBw2V"
+url="http://bit.ly/1ViHq4q"
 img="http://imageshack.com/a/img540/5935/wk4rRY.png"
 fanart="http://imageshack.com/a/img633/4262/Eakgq1.jpg"
 description="TVBox Direct XBMC Fully Loaded Set-up"
