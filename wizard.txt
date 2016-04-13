@@ -5,7 +5,7 @@ fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
 description="TVBox Direct KODI Set-up Full Version"
 
 name="KODI Setup"
-url="hhttp://bit.ly/1ViHq4q"
+url="http://bit.ly/1ViHq4q"
 img="http://imageshack.com/a/img673/1302/qfdFHK.png"
 fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
 description="TVBox Direct KODI Set-up Full Version"
