@@ -11,11 +11,11 @@ fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
 description="TVBox Direct KODI Set-up Full Version"
 
 
-name="KODI Lite Setup"
-url="http://bit.ly/1ViHq4q"
-img="http://imageshack.com/a/img633/1059/Nlwibb.png"
+name="KODI 16.1 Setup"
+url="http://bit.ly/29JdWNA"
+img="http://imgflex.com/images/2016/07/11/wizard161icon.jpg"
 fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
-description="TVBox Direct KODI Set-up Lite Version | Only Install Essential Add-ons"
+description="TVBox Direct KODI Set-up Best For KODI 16.1"
 
 
 name="XBMC Setup"
