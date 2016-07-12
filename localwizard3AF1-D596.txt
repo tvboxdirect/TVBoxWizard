@@ -1,5 +1,5 @@
 name="KODI Full Setup"
 url="./storage/3AF1-D596/kodipack.zip"
 img="http://imageshack.com/a/img908/9186/AQRxHr.png"
-fanart="./storage/3AF1-D596/erT1tQ.jpg"
+fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
 description="KODI Configure"
