@@ -1,5 +1,5 @@
-name="KODI Full Setup"
-url="nfs://192.168.0.110/Public/firmware/kodipack.zip"
+name="KODI Full Setup - Allwinner"
+url="/mnt/extsd/kodipack.zip"
 img="http://imageshack.com/a/img908/9186/AQRxHr.png"
 fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
 description="KODI Configure"
