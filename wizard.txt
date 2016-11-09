@@ -5,21 +5,14 @@ fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
 description="TVBox Direct KODI Set-up Full Version"
 
 name="KODI Setup"
-url="http://bit.ly/1ViHq4q"
+url="http://bit.ly/2ffLzah"
 img="http://imageshack.com/a/img673/1302/qfdFHK.png"
 fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
 description="TVBox Direct KODI Set-up Full Version"
 
 
-name="KODI 16.1 Setup"
-url="http://bit.ly/29JdWNA"
-img="http://imgflex.com/images/2016/07/11/wizard161icon.jpg"
-fanart="http://imageshack.com/a/img537/6599/erT1tQ.jpg"
-description="TVBox Direct KODI Set-up Best For KODI 16.1"
-
-
 name="XBMC Setup"
-url="http://bit.ly/1ViHq4q"
+url="http://bit.ly/2ffLzah"
 img="http://imageshack.com/a/img540/5935/wk4rRY.png"
 fanart="http://imageshack.com/a/img633/4262/Eakgq1.jpg"
 description="TVBox Direct XBMC Fully Loaded Set-up"
